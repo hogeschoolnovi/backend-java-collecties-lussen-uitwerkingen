@@ -1,5 +1,6 @@
 package nl.Novi;
 // Importeer de Scanner class uit de java.util package, wat een basis onderdeel is van je jdk
+// We hoeven Translator niet te importeren, omdat deze in hetzelfde package staat als Main, namelijk "nl.Novi"
 import java.util.Scanner;
 
 // Definieer de Main class, waarin we onze applicatie beginnen.
